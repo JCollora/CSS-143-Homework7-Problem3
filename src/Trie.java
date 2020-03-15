@@ -31,7 +31,7 @@ public class Trie {
 	}
 	//----------------------------------------------------------
 	
-	//HOMEWORK METHOD (Unfinished)
+	//HOMEWORK METHOD 
 	public List<String> autoComplete(String key){
 		
 		//Gets the last node given the key
